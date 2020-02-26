@@ -18,7 +18,7 @@
     "node-rtsp-stream": "0.0.8"
   },
   "devDependencies": {
-    "express": "3.1.x"
+    "express": "4.17.x"
   },
   "engines": {
     "node": ">=0.8.0"
